@@ -14,7 +14,6 @@ class Sub extends Super {
     int id;
 
     Sub() {
-        super();    // スーパークラスのコンストラクタを呼び出す
     }
 
     Sub(int id) {
